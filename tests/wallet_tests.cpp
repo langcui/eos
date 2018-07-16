@@ -15,7 +15,6 @@
 namespace eosio {
 
 BOOST_AUTO_TEST_SUITE(wallet_tests)
-
 /// Test creating the wallet
 BOOST_AUTO_TEST_CASE(wallet_test)
 { try {
